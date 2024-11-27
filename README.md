@@ -1,9 +1,4 @@
 ﻿# FRAUD_DETECTION
-Sure! Below is a sample **README** file for your project that involves fraud detection using the dataset (`Fraud.csv`), machine learning, and visualization.
-
----
-
-# Fraud Detection Using Machine Learning
 
 This project aims to detect fraudulent transactions from a dataset containing various financial transactions. The dataset includes details about transactions like type, amount, and balances, along with a label indicating whether the transaction was fraudulent or not. The goal is to build a predictive model that can classify transactions as either "fraud" or "no fraud."
 
@@ -129,9 +124,6 @@ Feel free to fork the project and submit pull requests for bug fixes, improvemen
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
